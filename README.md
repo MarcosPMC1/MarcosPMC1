@@ -1,6 +1,6 @@
-# 💫 About Me:
-Backend Developer (NestJS)<br>Using actual NestJS, NodeJS, BullMQ, Redis, Kubernetes and GitHub Actions
-
+# Marcos Paulo Muniz Cardoso
+## Back-end Developer Pleno - Líder de integração
+### 3 years experience
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcoscardosodeveloper/) 
